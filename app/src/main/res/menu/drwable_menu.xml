@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/mens_group1"
+        android:checkable="true"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_list_1"
+            android:title="笔记"
+            android:icon="@drawable/ic_1"/>
+
+        <item
+            android:id="@+id/nav_list_2"
+            android:title="收藏"
+            android:icon="@drawable/ic_2"/>
+
+        <item
+            android:id="@+id/nav_list_3"
+            android:title="总结"
+            android:icon="@drawable/ic_3"/>
+
+        <item
+            android:id="@+id/nav_list_4"
+            android:title="我的"
+            android:icon="@drawable/ic_4"/>
+    </group>
+</menu>

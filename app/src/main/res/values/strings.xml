@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">douban</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string-array name="tile_value">
+        <item>笔记</item>
+        <item>收藏</item>
+        <item>总结</item>
+        <item>我的</item>
+    </string-array>
+</resources>
